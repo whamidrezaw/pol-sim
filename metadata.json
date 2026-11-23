@@ -1,0 +1,6 @@
+{
+  "name": "پُل‌سیم — پل ارتباطی اندروید و آیفون",
+  "description": "پل ارتباطی شخصی و رمزنگاری‌شده بین گوشی اندروید (میزبان سیم‌کارت) و آیفون برای مدیریت پیامک، کپی خودکار رمز پویا، کنترل تماس و اجرای کدهای USSD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
